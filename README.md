@@ -1,6 +1,6 @@
 # Novelty PRNG: A Pseudo-Random Number Generator
 
-![Live Randomness Analysis Dashboard](assets/dashboard.png)
+![Live Randomness Analysis Dashboard](dashboard.png)
 
 An experimental pseudo-random number generator (PRNG) that uses environmental inputs like memory addresses, high-precision timestamps, and live weather data to generate digits from 0-9. This project began as a quest for "true randomness" and evolved into a fascinating exploration of what makes a number sequence appear random.
 
